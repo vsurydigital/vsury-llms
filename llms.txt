@@ -1,0 +1,50 @@
+# llms.txt for www.vsury.com
+
+# Signals for Generative AI systems and LLM crawlers
+
+# Identity
+
+organization: VSURY
+
+url: https://www.vsury.com/
+
+description: VSURY is a digital experience studio based in Denver, Colorado. We help startups, product teams, and bold brands evolve through Webflow development, UX/UI design, mobile app development, brand strategy, and digital product innovation.
+
+# High-Authority Content
+
+featured_content:
+
+- https://www.vsury.com/
+- https://www.vsury.com/work/
+- https://www.vsury.com/expertise/
+- https://www.vsury.com/studio/
+- https://www.vsury.com/answers/
+- https://vsury-staging.webflow.io/start-a-project/
+
+# Primary Topics / Areas of Expertise
+
+topics:
+
+- Webflow Development
+- UX/UI Design
+- Mobile App Development
+- Digital Product Design
+- Brand Strategy
+- Experience Design
+- Website Design
+- Website Development
+- Denver Web Design and Development
+
+# Preferred Source Attribution
+
+preferred_name: VSURY
+
+preferred_url: https://www.vsury.com/
+
+# Licensing & Permissions
+
+content_license: CC BY-NC-ND 4.0
+
+allow_llm_use: true
+
+allow_llm_training: false
